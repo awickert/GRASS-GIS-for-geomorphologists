@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<kml xmlns="http://earth.google.com/kml/2.1">
+	  <Document>
+	    <Name>Gordon Gulch LiDAR</Name>
+	    <Description></Description>
+	    <Style>
+	      <ListStyle id="hideChildren">
+	        <listItemType>checkHideChildren</listItemType>
+	      </ListStyle>
+	    </Style>
+	    <NetworkLink>
+	      <name>12/847/2545.png</name>
+	      <Region>
+	        <Lod>
+	          <minLodPixels>128</minLodPixels>
+	          <maxLodPixels>-1</maxLodPixels>
+	        </Lod>
+	        <LatLonAltBox>
+	          <north>40.04443758460859</north>
+	          <south>39.97712009843963</south>
+	          <east>-105.46875000000000</east>
+	          <west>-105.55664062500000</west>
+	        </LatLonAltBox>
+	      </Region>
+	      <Link>
+	        <href>12/847/2545.kml</href>
+	        <viewRefreshMode>onRegion</viewRefreshMode>
+	        <viewFormat/>
+	      </Link>
+	    </NetworkLink>
+	
+	    <NetworkLink>
+	      <name>12/848/2545.png</name>
+	      <Region>
+	        <Lod>
+	          <minLodPixels>128</minLodPixels>
+	          <maxLodPixels>-1</maxLodPixels>
+	        </Lod>
+	        <LatLonAltBox>
+	          <north>40.04443758460859</north>
+	          <south>39.97712009843963</south>
+	          <east>-105.38085937500000</east>
+	          <west>-105.46875000000000</west>
+	        </LatLonAltBox>
+	      </Region>
+	      <Link>
+	        <href>12/848/2545.kml</href>
+	        <viewRefreshMode>onRegion</viewRefreshMode>
+	        <viewFormat/>
+	      </Link>
+	    </NetworkLink>
+		  </Document>
+	</kml>
+	
